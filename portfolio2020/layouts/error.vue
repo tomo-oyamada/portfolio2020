@@ -1,7 +1,7 @@
 <template lang="pug">
   div
     Header
-    Nuxt
+    h2 エラーページです
 </template>
 
 <style>

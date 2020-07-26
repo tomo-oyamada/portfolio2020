@@ -1,0 +1,5 @@
+$c_white: #fff;
+
+@function rem($px, $base: 10) {
+  @return $px / $base * 1rem;
+}
